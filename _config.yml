@@ -22,7 +22,7 @@ title: Cosas swing
 description: >- # this means to ignore newlines until "baseurl:"
   Cosas de jazz y swing, de baile, de música y de gente que me inspira
 baseurl: /jekyll-test-site # the subpath of your site, e.g. /blog
-url: https://igsoblechero.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: https://swing.igsoblechero.es # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  ""
 
